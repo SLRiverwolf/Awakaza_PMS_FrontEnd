@@ -4,4 +4,4 @@ Property Management System targeted towards medium to large scale hotels. Develo
 Original repository is private. 
 https://github.com/circlebook/awakaza-pms-front-end
 
-System and code could be demonstrated upon request.
+System and code could be demonstrated upon request with permission of the company.
